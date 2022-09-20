@@ -46,6 +46,7 @@ Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
 
 </body>
 </html>
+```
 
 6. ¿Qué es un ```CSS```?
 
