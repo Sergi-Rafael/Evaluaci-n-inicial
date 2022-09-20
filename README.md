@@ -20,7 +20,7 @@ Es una aplicación (en locacl o en linia que permite editar un texto, una hoja d
 
 
 | Aplicaciones | Visto |
-|:------------:| ----- |
+|------------| ----- |
 | Google Docs | ✅ |
 | Google Slides | ✅ | 
 | Google Sheets | ✅ |
