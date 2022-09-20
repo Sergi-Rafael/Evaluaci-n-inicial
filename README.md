@@ -29,7 +29,7 @@ Es una aplicación (en locacl o en linia que permite editar un texto, una hoja d
 | ... | ... |
 
 
-6. ¿Qué es un ```HTML```
+6. ¿Qué es un ```HTML```?
 
 Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
 
@@ -46,3 +46,11 @@ Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
 
 </body>
 </html>
+
+6. ¿Qué es un ```CSS```?
+
+CSS es un lenguaje para dar estilo a un documento HTML. CSS describe como los elementos HTML deberian ser mostrados.
+
+8.Flujo de trabajo (navegador, pertición, servidor y respuesta):
+
+![Flujo de trabajo](https://github.com/Sergi-Rafael/RepasoGitHub/blob/main/RealMadrid.png "Haciendo clic vas a la foto")
