@@ -28,8 +28,21 @@ Es una aplicación (en locacl o en linia que permite editar un texto, una hoja d
 | Google Meet | 💻 |
 | ... | ... |
 
-6. ¿Qué es un ```
-<html>
-```
+
+6. ¿Qué es un ```HTML```
 
 Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
