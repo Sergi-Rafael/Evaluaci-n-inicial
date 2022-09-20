@@ -1,20 +1,20 @@
 # Evaluación_inicial
 1. ¿Qué es una página web?
 
-Conjunto de información que se encuentra en una dirección determinada de internet.
+       Conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Qué es un sitio web? 
 
-Un sitio web es un conjunto de archivos electronicos y paginas web referentes a un tema en 
-particular.
+    Un sitio web es un conjunto de archivos electronicos y paginas web referentes a un tema en 
+    particular.
 
 3. ¿Que es una apliación web? 
 
-Las aplicaciones web son un conjunto de paginas web estaticas y dinamicas.
+    Las aplicaciones web son un conjunto de paginas web estaticas y dinamicas.
 
 4. ¿Qué es una herramienta ofimática?
 
-Es una aplicación (en locacl o en linia que permite editar un texto, una hoja de cálculo, una presentación.
+    Es una aplicación (en locacl o en linia que permite editar un texto, una hoja de cálculo,       una presentación.
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Haz clic aqui para visitar las herramientas de google")
 
@@ -31,7 +31,7 @@ Es una aplicación (en locacl o en linia que permite editar un texto, una hoja d
 
 6. ¿Qué es un ```HTML```?
 
-Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
+    Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
 
 ```html
 <!DOCTYPE html>
@@ -50,7 +50,7 @@ Es un lenjuage de marcas. Es el lenguaje estandard para crear sitios web.
 
 6. ¿Qué es un ```CSS```?
 
-CSS es un lenguaje para dar estilo a un documento HTML. CSS describe como los elementos HTML deberian ser mostrados.
+    CSS es un lenguaje para dar estilo a un documento HTML. CSS describe como los elementos HTML    deberian ser mostrados.
 
 8.Flujo de trabajo (navegador, pertición, servidor y respuesta):
 
