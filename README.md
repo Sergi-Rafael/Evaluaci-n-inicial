@@ -27,3 +27,8 @@ Es una aplicación (en locacl o en linia que permite editar un texto, una hoja d
 | Google Calendar | 🗓️ |
 | Google Meet | 💻 |
 | ... | ... |
+
+6. ¿Qué es un ```HTML
+<html>
+</html>
+```
